@@ -8,7 +8,7 @@ Abra o Visual Studio > Ferramentas > Gerenciador de Pacotes do NuGet > Console d
 >update-database
 
 - Execute o projeto
-- Dica extra: Caso queira ver o banco de dados e tabelas criados instale o `SQL Server Management Studio (SSMS)`, no arquivo `appsettings.json` adicione o nome do servidor, substitua o `` pelo seu
+- Dica extra: Caso queira ver o banco de dados e tabelas criados instale o `SQL Server Management Studio (SSMS)`, no arquivo `appsettings.json` adicione o nome do servidor, substitua o `MAKI\MSSQLSERVER02` pelo seu
 
 ## Criando o projeto
 - Visual Studio
