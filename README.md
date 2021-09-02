@@ -4,6 +4,14 @@
 - Cada pasta apresenta uma documentação, clique em uma delas para ver 
 - C#
 
+## Publicação na nuvem
+Caso esteja usando uma versão acima do .NET Core 3.0.0:
+>dotnet tool install --global dotnet-ef --version 3.0.0
+
+Clique com o botão direito no projeto `CursoMVC` > Publicar > Criar Novo > Você pode dar um nome para o `Nome` e `Grupo de recursos` > Criar um Banco de Dados SQL (Preencha os dados) > Criar > Editar > Use essa cadeia de conexão no tempo de execução ✅ > Aplicar essa migração ao publicar ✅ > Salvar > Publicar 
+
+Fiz o mesmo processo para `CursoAPI`, porém não criei um banco de dados, apenas clique em `Adicionar`, a qual fez a conexão do projeto com o banco de dados já existente
+
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
 
