@@ -4,6 +4,13 @@
 - Introdução ao .NET
 - Visual Studio
 
+## Rodar o projeto
+- Visual Studio
+- Clique duas vezes no arquivo `CursoMVC.sln`
+- Clique com o botão direito da solução do projeto > Propriedades > Projeto de inicialização > Vários projetos de inicialização (✅) > Adicione a opção `Iniciar` para ambos > Aplicar > Ok
+- Por fim, clique em `Iniciar`
+- Execute o projeto na IDE
+
 ## Como criei o projeto?
 - Visual Studio
 - API
@@ -23,11 +30,6 @@
 
 ## Entendendo o código 
 `Startup.cs`: habilita o Swagger, adiciona os Middlewares. Após adicioná-los fiz o build.
-
-## Rodar o projeto
-- Visual Studio
-- Clique com o botão direito da solução do projeto > Propriedades > Projeto de inicialização > Vários projetos de inicialização (✅) > Adicione a opção `Iniciar` para ambos > Aplicar > Ok
-- Por fim, clique em `Iniciar`
 
 ## O que é API?
 A sigla API em português significa "interface de programação de aplicações". As APIs sãouma forma de realizar a integração entre sistemas mesmo que esses possuam linguagens de programação diferente. Um exemplo de API é o Google Maps que é utilizado por empresas de Hotel em que é disponibilizada dentro do site da empresa a localização em que ele fica. 
