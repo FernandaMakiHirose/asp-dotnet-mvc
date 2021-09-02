@@ -7,6 +7,7 @@
 Abra o Visual Studio > Ferramentas > Gerenciador de Pacotes do NuGet > Console do Gerenciador de Pacotes e digite:
 >update-database
 
+- Execute o projeto
 - Dica extra: Caso queira ver o banco de dados e tabelas criados instale o `SQL Server Management Studio (SSMS)`
 
 ## Criando o projeto
