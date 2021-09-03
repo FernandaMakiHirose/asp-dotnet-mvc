@@ -4,6 +4,9 @@
 - Cada pasta apresenta uma documentação, clique em uma delas para ver 
 - C#
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Publicação na nuvem
 Caso esteja usando uma versão acima do .NET Core 3.0.0:
 >dotnet tool install --global dotnet-ef --version 3.0.0
